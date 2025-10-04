@@ -1,0 +1,14 @@
+*.csv
+*.json
+*.xml
+*.log
+*.tmp
+*.gz
+*.zip
+*.fits
+*.hdf5
+*.npy
+*.pickle
+*pycache*/
+*.pyc
+*.ows
