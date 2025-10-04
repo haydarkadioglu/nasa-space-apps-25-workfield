@@ -12,3 +12,9 @@
 *pycache*/
 *.pyc
 *.ows
+*.pickle
+*.pkl
+*.h5
+*/__pycache__/
+*/autogluon_models/
+/archive/
