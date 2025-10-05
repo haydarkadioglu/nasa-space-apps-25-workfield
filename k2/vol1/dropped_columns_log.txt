@@ -1,0 +1,103 @@
+KALDIRILAN KOLONLAR LOGU
+==================================================
+
+Tamamen 0 olan kolonlar (46 adet):
+  - sy_mnum
+  - cb_flag
+  - pul_flag
+  - ptv_flag
+  - ast_flag
+  - obm_flag
+  - etv_flag
+  - ima_flag
+  - dkin_flag
+  - pl_tranmidlim
+  - pl_impparlim
+  - pl_trandeplim
+  - pl_trandurlim
+  - pl_ratrorlim
+  - st_tefflim
+  - st_radlim
+  - st_masslim
+  - st_metlim
+  - st_logglim
+  - st_nspec
+  - pl_ndispec
+  - pl_orbsmax_is_limit
+  - pl_msinie_is_limit
+  - pl_msinij_is_limit
+  - pl_cmasse_is_limit
+  - pl_cmassj_is_limit
+  - pl_insol_is_limit
+  - pl_orbincl_is_limit
+  - pl_tranmid_is_limit
+  - pl_imppar_is_limit
+  - pl_trandep_is_limit
+  - pl_trandur_is_limit
+  - pl_ratdor_is_limit
+  - pl_ratror_is_limit
+  - pl_orbtper_is_limit
+  - pl_orblper_is_limit
+  - st_teff_is_limit
+  - st_rad_is_limit
+  - st_mass_is_limit
+  - st_met_is_limit
+  - st_lum_is_limit
+  - st_logg_is_limit
+  - st_age_is_limit
+  - st_dens_is_limit
+  - st_rotp_is_limit
+  - st_radv_is_limit
+
+Yuzde 95'ten fazla eksik degeri olan kolonlar (0 adet):
+
+Tamamen ayni degere sahip kolonlar (46 adet):
+  - sy_mnum
+  - cb_flag
+  - pul_flag
+  - ptv_flag
+  - ast_flag
+  - obm_flag
+  - etv_flag
+  - ima_flag
+  - dkin_flag
+  - pl_tranmidlim
+  - pl_impparlim
+  - pl_trandeplim
+  - pl_trandurlim
+  - pl_ratrorlim
+  - st_tefflim
+  - st_radlim
+  - st_masslim
+  - st_metlim
+  - st_logglim
+  - st_nspec
+  - pl_ndispec
+  - pl_orbsmax_is_limit
+  - pl_msinie_is_limit
+  - pl_msinij_is_limit
+  - pl_cmasse_is_limit
+  - pl_cmassj_is_limit
+  - pl_insol_is_limit
+  - pl_orbincl_is_limit
+  - pl_tranmid_is_limit
+  - pl_imppar_is_limit
+  - pl_trandep_is_limit
+  - pl_trandur_is_limit
+  - pl_ratdor_is_limit
+  - pl_ratror_is_limit
+  - pl_orbtper_is_limit
+  - pl_orblper_is_limit
+  - st_teff_is_limit
+  - st_rad_is_limit
+  - st_mass_is_limit
+  - st_met_is_limit
+  - st_lum_is_limit
+  - st_logg_is_limit
+  - st_age_is_limit
+  - st_dens_is_limit
+  - st_rotp_is_limit
+  - st_radv_is_limit
+
+TOPLAM KALDIRILAN KOLON SAYISI: 46
+KALAN KOLON SAYISI: 145

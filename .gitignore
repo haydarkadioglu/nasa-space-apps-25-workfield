@@ -1,4 +1,4 @@
-# *.csv
+*.csv
 *.json
 *.xml
 *.log
@@ -15,6 +15,10 @@
 *.pickle
 *.pkl
 *.h5
+*.joblib
 */__pycache__/
 */autogluon_models/
 /archive/
+tess/vol2
+tess/vol3
+tess/vol4
